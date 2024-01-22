@@ -4,3 +4,7 @@
     color: purple;
     outline: 2px solid red;
 }
+
+.dp {
+    border-radius: 50%;
+}
